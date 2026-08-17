@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_1_O_paradigma_da_programacao_orientada_a_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_2_Entendendo_o_conceito_de_classes_e_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_11_Valores_padrao_e_inicializacao_de_variaveis_de_instancia/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_12_Inicializacao_de_objetos_em_variaveis_de_instancia/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_13_Caindo_a_ficha_variaveis_referenciam_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_14_Criando_e_invocando_um_metodo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_15_Implementando_a_logica_do_metodo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_16_intellij_IDEA_debug_de_chamadas_de_metodos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_17_metodos_com_retorno/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_18_Implementando_metodos_menores_e_evitando_duplicacao_de_codigo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_19_Saindo_do_metodo_com_a_clausula_return/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_20_Metodos_que_retornam_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_21_Refatorando_para_tornar_uma_classse_mais_rica/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_22_Discutindo_nome_e_responsabilidade_da_classe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_23_Metodos_com_argumentos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_24_Passando_objetos_como_argumentos_de_metodos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_25_Desafio_composicao_de_objetos_e_metodos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_27_Metodos_que_alteram_variaveis_de_instancia/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_28_Metodos_que_alteram_o_valor_de_parametro_do_tipo_primitivo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_29_Metodos-que_alteram_o_estado_de_objeto_recebido_como_parametro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_30_Usando_a_palavra_THIS/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_31_Atributos_de_classe_com_o_modificador_static/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_32_Metodo_de_instancia_alterando_variavel_estatica/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_33_Metodos_de_classe-estaticos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_34_Metodo_estatico_acessando_membro_de_instancia/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_35_Desafio_membros_estaticos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_36_Declarando_constantes_com_static_e_final/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_37_Modificador_final_em_variaveis_locais/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_38_Sobrecarga_de_metodos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_39_Inferencia_de_tipo_de_variavel_local/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_3_Criando_uma_classe_com_atributos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_40_Desafio_modificador_final_em_variavel_locais/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_41_Desafio_sobrecarga_de_metodos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_42_Desafio_inferencia_de_tipo_de_variavel_local/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_4_Instanciando_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_5_Acessando_atributos_de_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_6_Conhecendo_atributos_de_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_7_Desafio_instanciando_objetos_e_acessando_os_atributos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_8_Composicao_de_objetos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula_5_9_atribuindo_o_objeto_na_composicao/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
