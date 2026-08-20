@@ -1,9 +1,9 @@
 package aula_5_4_Instanciando_objetos;
 
-public class Principal_1 {
+public class Principal {
     public static void main(String[] args) {
 
-        Carro_1 meuCarro = new Carro_1();
+        Carro meuCarro = new Carro();
 
         meuCarro.anoDeFabricacao = 2021;
 
